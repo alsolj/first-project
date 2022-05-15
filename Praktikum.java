@@ -1,4 +1,4 @@
-public class Praktikum.java1 {
+public class Praktikum.java {
     public static void main (String[] args) {
         
     }    
